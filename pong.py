@@ -3,7 +3,7 @@ import turtle
 wn = turtle.Screen()
 wn.title("Pong by @azimsaidov")
 wn.bgcolor("blue")
-wn.setup(width=1800, height=1600)
+wn.setup(width=800, height=600)
 wn.tracer(0)
 
 #score
